@@ -22,6 +22,7 @@ https://github.com/CubeIR/Vanilla-RTX
 
 使用效果对比：
 
+![](使用效果对比.png)
 
 ---
 
