@@ -1,0 +1,15 @@
+{
+   "num_mip_levels": 0,
+   "padding": 0,
+   "texture_data": {
+      "pumpkin_face_on": {
+         "textures": "textures/blocks/pumpkin_face_on"
+      },
+      "pumpkin_side_on": {
+         "textures": "textures/blocks/pumpkin_side_on"
+      },
+      "pumpkin_top_on": {
+         "textures": "textures/blocks/pumpkin_top_on"
+      }
+   }
+}

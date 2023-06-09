@@ -1,0 +1,13 @@
+{
+    "lit_pumpkin": {
+        "sound": "wood",
+        "textures": {
+            "down": "pumpkin_top_on",
+            "east": "pumpkin_side_on",
+            "north": "pumpkin_side_on",
+            "south": "pumpkin_face_on",
+            "up": "pumpkin_top_on",
+            "west": "pumpkin_side_on"
+        }
+    }
+}

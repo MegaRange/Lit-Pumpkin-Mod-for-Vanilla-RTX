@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A Vanilla RTX addon that makes Jack'o'Lanterns have same light effect with non-RTX environment. Place above Vanilla RTX.",
+        "description_zh_cn": "让南瓜灯光效符合非RTX环境的Vanilla RTX附加组件，把该材质包放在Vanilla RTX的上面以生效。",
+        "name": "Lit pumpkin mod for Vanilla RTX",
+        "name_zh_cn": "适用于Vanilla RTX的南瓜灯光效Mod",
+        "uuid": "067d5793-867b-fe77-13f7-e86f7e1cd164",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 200]
+    },
+    "metadata": {
+        "authors": ["MegaRange"]
+    },
+    "modules": [
+        {
+        "type": "resources",
+        "uuid": "a25c29ec-abeb-c364-c22b-544de1c39a79",
+        "version": [0, 0, 4]
+        }
+    ],
+    "capabilities" : [ "raytraced" ]	
+}
